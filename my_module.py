@@ -9,4 +9,8 @@ def mul(a,b):
 
 def div(a,b):
     return a//b
-#아니 예시를 따라갈 수가 없다구ㅡㅡ
+
+a=3
+b=3
+
+print(a,"나누기",b,"는", div(a,b))
